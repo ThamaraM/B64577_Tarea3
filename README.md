@@ -8,4 +8,5 @@ Asignaciones de la tarea 3.
 
 # Curva de ajuste para las funciones de densidad marginales de X y Y.
 
-![GitHub Logo](C:\Users\Thamara\OneDrive\Documentos\Modelos\Tarea3\Imagenes\marginalx.png)
+![GitHub Logo](\marginalx.png)
+![GitHub Logo](\marginaly.png)

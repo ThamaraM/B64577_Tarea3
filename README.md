@@ -8,5 +8,4 @@ Asignaciones de la tarea 3.
 
 # Curva de ajuste para las funciones de densidad marginales de X y Y.
 
-![GitHub Logo](\marginalx.png)
-![GitHub Logo](\marginaly.png)
+![](marginalx.png) ![](marginaly.png)

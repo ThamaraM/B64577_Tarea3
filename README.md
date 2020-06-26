@@ -34,10 +34,16 @@ Para el caso de x, y para el caso de y la siguiente:
   <img src="https://render.githubusercontent.com/render/math?math={ f }_{ y }\left( y \right) =\frac { 1 }{ \sqrt { 2\pi { \sigma  }_{ y }^{ 2 } }  } { e }^{ \left\lfloor \frac { -{ \left( y-{ \mu  }_{ y } \right)  }^{ 2 } }{ 2{ \sigma  }_{ y }^{ 2 } }  \right\rfloor  }">  
 </p>
 
-Ecuaciones que se introdujeron en el código junto con la herramienta de *curve_fit* y los datos de mu=9.904843810018251 y sigma=3.2994428643069567 obtenidos del mismo.
+Ecuaciones que se introdujeron en el código junto con la herramienta de *curve_fit* y los datos de mu=9.904843810018251 y sigma=3.2994428643069567 para X y mu=15.079460901835715 y sigma=6.026937742803979 para Y obtenidos del mismo.
 
 
 # Expresión de la función de densidad conjunta que modela los datos.
+
+Al asumir X y Y como dos variables independientes la función de densidad conjunta está dada por la multiplicación de las funciones de densidad marginals de cada una de las variables, por lo que, teniendo en cuenta las ecuaciones mencionadas anteriormente y los valores de sigma y mu para ambas variables, matemáticamente se podría ver en la siguiente ecuación la expresión de la función de densidad conjunta:
+
+<p align="center">
+  <img src="https://render.githubusercontent.com/render/math?math={ f }_{ x,\quad y }\left( x,\quad y \right) =\left( \frac { 1 }{ \sqrt { 2\pi { \cdot 3.2994 }^{ 2 } }  } { e }^{ \left\lfloor \frac { -{ \left( x-9.9048 \right)  }^{ 2 } }{ 2\cdot { 3.2994 }^{ 2 } }  \right\rfloor  } \right) \cdot \left( \frac { 1 }{ \sqrt { 2\pi { \cdot 6.0269 }^{ 2 } }  } { e }^{ \left\lfloor \frac { -{ \left( x-15.0796 \right)  }^{ 2 } }{ 2{ \cdot 6.0269 }^{ 2 } }  \right\rfloor  } \right) ">  
+</p>
 
 
 # Valores de correlación, covarianza y coeficiente de correlación (Pearson) para los datos y su significado.

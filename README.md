@@ -42,7 +42,7 @@ Ecuaciones que se introdujeron en el código junto con la herramienta de *curve_
 Al asumir X y Y como dos variables independientes la función de densidad conjunta está dada por la multiplicación de las funciones de densidad marginals de cada una de las variables, por lo que, teniendo en cuenta las ecuaciones mencionadas anteriormente y los valores de sigma y mu para ambas variables, matemáticamente se podría ver en la siguiente ecuación la expresión de la función de densidad conjunta:
 
 <p align="center">
-  <img src="https://render.githubusercontent.com/render/math?math={ f }_{ x,\quad y }\left( x,\quad y \right) =\left( \frac { 1 }{ \sqrt { 2\pi { \cdot 3.2994 }^{ 2 } }  } { e }^{ \left\lfloor \frac { -{ \left( x-9.9048 \right)  }^{ 2 } }{ 2\cdot { 3.2994 }^{ 2 } }  \right\rfloor  } \right) \cdot \left( \frac { 1 }{ \sqrt { 2\pi { \cdot 6.0269 }^{ 2 } }  } { e }^{ \left\lfloor \frac { -{ \left( x-15.0796 \right)  }^{ 2 } }{ 2{ \cdot 6.0269 }^{ 2 } }  \right\rfloor  } \right) ">  
+  <img src="https://render.githubusercontent.com/render/math?math={ f }_{ x, y }\left( x, y \right) =\left( \frac { 1 }{ \sqrt { 2\pi { \cdot 3.2994 }^{ 2 } }  } { e }^{ \left\lfloor \frac { -{ \left( x-9.9048 \right)  }^{ 2 } }{ 2\cdot { 3.2994 }^{ 2 } }  \right\rfloor  } \right) \cdot \left( \frac { 1 }{ \sqrt { 2\pi { \cdot 6.0269 }^{ 2 } }  } { e }^{ \left\lfloor \frac { -{ \left( x-15.0796 \right)  }^{ 2 } }{ 2{ \cdot 6.0269 }^{ 2 } }  \right\rfloor  } \right) ">  
 </p>
 
 
@@ -56,8 +56,10 @@ Al asumir X y Y como dos variables independientes la función de densidad conjun
 
 
 # Funciones de densidad marginales (2D), la función de densidad conjunta (3D).
+A continuación se pueden observar las funciones de densidad marginales de x y y mencionadas en secciones anteriores.
 ## Funciones marginales:
 ![](marginalx.png) ![](marginaly.png)
 
+Finalmente, la función de densidad conjunta corresponde a 
 ## Función de densidad conjunta:
 ![](densidad_conjunta.png)

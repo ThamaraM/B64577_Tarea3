@@ -1,4 +1,4 @@
-# Tarea 3: Variables Aleatorias Multiples
+# Tarea 3: Variables Aleatorias Múltiples
 Modelos Probabilísticos de señales y sistemas.
 
 Thamara Montero Montoya. B64577.
@@ -33,6 +33,8 @@ Para el caso de x, y para el caso de y la siguiente:
 <p align="center">
   <img src="https://render.githubusercontent.com/render/math?math={ f }_{ y }\left( y \right) =\frac { 1 }{ \sqrt { 2\pi { \sigma  }_{ y }^{ 2 } }  } { e }^{ \left\lfloor \frac { -{ \left( y-{ \mu  }_{ y } \right)  }^{ 2 } }{ 2{ \sigma  }_{ y }^{ 2 } }  \right\rfloor  }">  
 </p>
+
+Ecuaciones que se introdujeron en el código junto con la herramienta de *curve_fit* y los datos de $/mu$ y $\sigma$ obtenidos del mismo.
 
 
 # Expresión de la función de densidad conjunta que modela los datos.

@@ -48,6 +48,13 @@ Al asumir X y Y como dos variables independientes la función de densidad conjun
 
 # Valores de correlación, covarianza y coeficiente de correlación (Pearson) para los datos y su significado.
 
+* Correlación = 149.54281000000012
+
+* Covarianza = 0.18310502804041562
+
+* Coeficiente de correlación = 0.0023019875014526135
+
+
 # Funciones de densidad marginales (2D), la función de densidad conjunta (3D).
 ## Funciones marginales:
 ![](marginalx.png) ![](marginaly.png)

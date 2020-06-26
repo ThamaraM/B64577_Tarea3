@@ -7,7 +7,10 @@ Asignaciones de la tarea 3.
 
 
 # Curva de ajuste para las funciones de densidad marginales de X y Y.
+En las imágenes que se muestran a continuación es posible observar
+
 ![](ajustex.png) ![](ajustey.png)
+
 
 # Expresión de la función de densidad conjunta que modela los datos.
 

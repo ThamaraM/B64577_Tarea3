@@ -29,6 +29,12 @@ Considerando el comportamiento de ambas curvas observable en la sección 4. las 
 Para el caso de x, y para el caso de y la siguiente:
 
 
+
+<p align="center">
+  <img src="https://render.githubusercontent.com/render/math?math={ f }_{ y }\left( y \right) =\frac { 1 }{ \sqrt { 2\pi { \sigma  }_{ y }^{ 2 } }  } { e }^{ \left\lfloor \frac { -{ \left( y-{ \mu  }_{ y } \right)  }^{ 2 } }{ 2{ \sigma  }_{ y }^{ 2 } }  \right\rfloor  }">  
+</p>
+
+
 # Expresión de la función de densidad conjunta que modela los datos.
 
 

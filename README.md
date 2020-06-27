@@ -56,12 +56,12 @@ Al asumir X y Y como dos variables independientes la función de densidad conjun
 </p>
 
 
-Es el momento de segundo orden, el cual determina el grado de asociación lineal de dos variables aleatorias. Para determinar la correlación de dos variables es necesario utilizar la siguiente formula:
+Es el momento de segundo orden, el cual determina el grado de asociación lineal de dos variables aleatorias. Para determinar la correlación de dos variables es necesario utilizar la siguiente fórmula dado que se asumió independencia estadística entre las variables, lo cual garantiza que no estén correlacionadas:
 <p align="center">
   <img src="https://render.githubusercontent.com/render/math?math={ R }_{ XY }=E\left[ X \right] E\left[ Y \right] =9.904843810018251\cdot 15.079460901835715=149.359705 ">  
 </p>
 
-La cual implica la no correlación entre las variables. Se puede deducir de valor dado previamente de correlación que al ser el mismo que el de la ecuación no existe la correlación entre ambas variables. Es importante aclarar que si existiese correlación esta no implicaría causalidad, es decir, el comportamiento de una no afecta a la otra.
+Se puede deducir del valor dado previamente de correlación que al ser el mismo que el de la ecuación queda comprobado que no existe la correlación entre ambas variables. Es importante aclarar que si existiese correlación esta no implicaría causalidad, es decir, el comportamiento de una no afecta a la otra.
 
 
 * Covarianza = 0.18310502804041562

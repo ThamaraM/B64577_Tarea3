@@ -64,9 +64,24 @@ Es el momento de segundo orden, el cual determina el grado de asociación lineal
 Se puede deducir del valor dado previamente de correlación que al ser el mismo que el de la ecuación queda comprobado que no existe la correlación entre ambas variables. Es importante aclarar que si existiese correlación esta no implicaría causalidad, es decir, el comportamiento de una no afecta a la otra.
 
 
-* Covarianza = 0.18310502804041562
+* Covarianza
 
-* Coeficiente de correlación = 0.0023019875014526135
+
+<p align="center">
+  <img src="https://render.githubusercontent.com/render/math?math={ C }_{ XY }= 0.18310502804041562 ">  
+</p>
+
+Para determinar si dos variables son independientes es necesario que el valor de la covarianza sea igual a 0, anteriormente se asumió que ambas variables aleatorias eran independientes, además, en el inciso anterior se obtiente el valor de la correlación y se comprueba de acuerdo a este dado su independencia.
+
+Ahora bien, del valor obtenido para la covarianza se puede observar su cercanía a 0, por lo que,  se puede corroborar, una vez más, la independencia de las variables estudiadas.
+
+
+* Coeficiente de correlación
+
+= 0.0023019875014526135
+
+
+
 
 
 # Funciones de densidad marginales (2D), la función de densidad conjunta (3D).

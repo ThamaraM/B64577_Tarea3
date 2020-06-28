@@ -78,8 +78,9 @@ Ahora bien, del valor obtenido para la covarianza se puede observar su cercanía
 
 * Coeficiente de correlación
 
-= 0.0023019875014526135
-
+<p align="center">
+  <img src="https://render.githubusercontent.com/render/math?math=\rho =\frac { { C }_{ XY } }{ { \sigma  }_{ X }{ \sigma  }_{ Y } } =0.0023019875014526135 ">  
+</p>
 
 
 

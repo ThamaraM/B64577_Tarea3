@@ -78,7 +78,7 @@ print( "La varianza es :" , covarianza)
 
 
 # Coeficiente de varianza
-coef_var = covarianza/ (param_X[1]*param_Y[1]*4)
+coef_var = covarianza/ (param_X[1]*param_Y[1])
 print( "El coeficiente de varianza es :" , coef_var)
 
 #4. Funciones de densidad marginales (2D), la función de densidad conjunta (3D).

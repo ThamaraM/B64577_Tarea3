@@ -79,7 +79,7 @@ Ahora bien, del valor obtenido para la covarianza se puede observar su cercanía
 * Coeficiente de correlación
 
 <p align="center">
-  <img src="https://render.githubusercontent.com/render/math?math=\rho =\frac { { C }_{ XY } }{ { \sigma  }_{ X }{ \sigma  }_{ Y } } =0.0023019875014526135 ">  
+  <img src="https://render.githubusercontent.com/render/math?math=\rho =\frac { { C }_{ XY } }{ { \sigma  }_{ X }{ \sigma  }_{ Y } } =0.009207950005810454">  
 </p>
 
 Este momento de segundo orden se encuentra entre los valores de -1 y 1, y corresponde a la medida en que dos variables aleatorias dependen linealmente una de la otra. Su valor, negativo o positivo, determina el valor de la correlación, ya sea positiva o negativa. Si el valor de este momento es cero indica que no existe relación lineal entre las variables aleatorias.
